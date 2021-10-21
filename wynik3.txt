@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvmefs7CFgaHUMIMpkTGPlWHBhLCbfFkA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s23096>; rel="up"
+Last-Modified: Tue, 22 Dec 2020 15:45:36 GMT
+ETag: "5W1Fqkc7mefv7sSeX4tn1C"
+Date: Tue, 22 Dec 2020 15:45:36 GMT
+Content-Type: application/json
+Content-Length: 178
+
+{movieName: Avengers, movieReleaseYear: 2012, movieDirector: {name: Joss , surname: Whedon}, movieLanguage: English, moviePrice: 29.99, movieAvailability: True, movieRating: 7.2}
