@@ -1,0 +1,1 @@
+printjson(db.people.find({}).forEach(record => {db.people.update({"_id": record._id}, {$set: {weight: parseFloat(record.weight), height: parseFloat(record.height), credit: record.credit.map(function(credit) {return {type: credit.type, number: credit.number, currency: credit.currency, balance: parseFloat(credit.balance)}})}})}))
