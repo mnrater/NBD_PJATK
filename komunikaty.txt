@@ -1,0 +1,8 @@
+Dodanie, pobranie, wypisanie:
+{'movieName': 'Smerfy', 'movieReleaseYear': 2011, 'movieDirectorSurname': 'Gosnell', 'movieLanguage': 'Polish', 'moviePrice': 2.99, 'movieAvailability': 'True'}
+
+Edycja, pobranie, wypisanie:
+{'movieName': 'RogateRanczo', 'movieReleaseYear': 2011, 'movieDirectorSurname': 'Gosnell', 'movieLanguage': 'Polish', 'moviePrice': 2.99, 'movieAvailability': 'True'}
+
+Usuniecie, proba pobrania:
+None
